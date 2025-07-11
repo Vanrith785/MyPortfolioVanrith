@@ -309,6 +309,7 @@ a:focus {
 /**********************************/
 .header {
     position: relative;
+    width: auto;
     background: #ffffff;
 }
 
@@ -320,15 +321,16 @@ a:focus {
 
 .header p {
     color: #FF6F61;
-    font-size: 22px;
-    font-weight: 600;
-    margin-bottom: 10px;
+    font-size: 30px;
+    font-weight: 100;
+    margin-bottom: 0px;
 }
 
 .header h1 {
-    color: #222222;
+    color: #dcb95f;
     font-size: 50px;
     font-weight: 700;
+    margin: auto;
 }
 
 .header h2 {
