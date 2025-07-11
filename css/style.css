@@ -314,9 +314,9 @@ a:focus {
 }
 
 .header .content-inner {
-    padding: 210px 5px;
+    padding: 180px 5px;
     background: url(../img/profile.png) right bottom no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 .header p {
