@@ -2,7 +2,7 @@
 /********** General CSS ***********/
 /**********************************/
 body {
-    color: #666666;
+    color: #a41515;
     background: #F6D155;
     font-family: 'Open Sans', sans-serif;
 }
@@ -314,20 +314,20 @@ a:focus {
 }
 
 .header .content-inner {
-    padding: 100px 30px;
+    padding: 200px 30px;
     background: url(../img/profile.png) right bottom no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .header p {
-    color: #FF6F61;
+    color: #f21906;
     font-size: 30px;
-    font-weight: 100;
+    font-weight: 500;
     margin-bottom: 0px;
 }
 
 .header h1 {
-    color: #dcb95f;
+    color: #f6b103;
     font-size: 50px;
     font-weight: 700;
     margin: auto;
@@ -341,13 +341,13 @@ a:focus {
 }
 
 .header .typed-text {
-    display: none;
+    display:none;
 }
 
 .header .typed-cursor {
     font-size: 25px;
     font-weight: 300;
-    color: #222222;
+  ;
 }
 
 .large-btn .content-inner {
