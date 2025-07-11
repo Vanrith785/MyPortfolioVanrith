@@ -2,7 +2,7 @@
 /********** General CSS ***********/
 /**********************************/
 body {
-    color: #a41515;
+    color: #291919;
     background: #F6D155;
     font-family: 'Open Sans', sans-serif;
 }
@@ -46,7 +46,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 15px;
-    float: left;
+    float: top;
     background: #F6D155;
 }
 
@@ -314,7 +314,7 @@ a:focus {
 }
 
 .header .content-inner {
-    padding: 200px 30px;
+    padding: 350px 30px;
     background: url(../img/profile.png) right bottom no-repeat;
     background-size: cover;
 }
